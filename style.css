@@ -1,0 +1,42 @@
+body{
+    padding: 0%;
+    margin: 0%;
+   background: linear-gradient( to right,dodgerblue 2%,blueviolet);
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.log{
+    background-color: white;
+margin: 500px;
+padding: 25px;
+margin-top: 250px;
+}
+.text{
+
+padding:20px;
+width:400px;
+}
+.password{
+    padding: 20px;
+    width:400px;
+}
+.forgot{
+    color: skyblue;
+}
+.login{
+  padding: 20px;  
+  width: 450px;
+  color: white;
+  background: linear-gradient( to right, dodgerblue 5%,blueviolet);
+}
+.not{
+    display: inline-flex;
+}
+.sin{
+   margin-top:15px;
+   color: skyblue;
+   text-decoration: none;
+}
